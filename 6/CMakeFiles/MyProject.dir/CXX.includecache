@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Moser/mosered75484_at_5888/6/module.cpp
+module.h
+/Users/Moser/mosered75484_at_5888/6/module.h
+stdio.h
+-
+
+/Users/Moser/mosered75484_at_5888/6/module.h
+
+/Users/Moser/mosered75484_at_5888/6/module2.cpp
+module2.h
+/Users/Moser/mosered75484_at_5888/6/module2.h
+module.h
+/Users/Moser/mosered75484_at_5888/6/module.h
+stdio.h
+-
+
+/Users/Moser/mosered75484_at_5888/6/module2.h
+module.h
+/Users/Moser/mosered75484_at_5888/6/module.h
+

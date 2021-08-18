@@ -1,0 +1,4 @@
+/Users/Moser/mosered75484_at_5888/6/CMakeFiles/rebuild_cache.dir
+/Users/Moser/mosered75484_at_5888/6/CMakeFiles/edit_cache.dir
+/Users/Moser/mosered75484_at_5888/6/CMakeFiles/main.dir
+/Users/Moser/mosered75484_at_5888/6/CMakeFiles/MyProject.dir
